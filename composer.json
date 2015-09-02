@@ -1,0 +1,22 @@
+{
+    "name": "rogerthomas84/ohpage",
+    "description": "OhPage is a paginating library for PHP",
+    "keywords": ["ohpage", "php page library", "php pagination", "paginator"],
+    "homepage": "https://github.com/rogerthomas84/ohpage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Thomas",
+            "email": "rogere84@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=3.7.38"
+    },
+    "autoload": {
+        "psr-0": { "OhPage": "src" }
+    }
+}
